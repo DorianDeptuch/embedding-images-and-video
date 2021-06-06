@@ -1,5 +1,3 @@
-/* Youtube Sans */
-@import url('https://fonts.gstatic.com/s/youtubesans/v8/Qw3hZQNGEDjaO2m6tqIqX5E-AVS5_rSejo46_PCTRspJ0OosolrBEJL3HMXfxQASluL2m_dANVawBpSD.woff2');
 /* Roboto */
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
@@ -177,14 +175,6 @@ padding-right: 1rem;
   width: 15%;
 }
 
-.header__addVideo {
-
-}
-
-.header__youtubeApps {
-
-}
-
 .header__notifications {
   width: 4rem;
 }
@@ -259,10 +249,6 @@ padding-right: 1rem;
   flex-direction: column;
   width: 100%;
   height: fit-content;
-}
-
-.video__videoPlayer {
-
 }
 
 iframe {
@@ -560,14 +546,6 @@ iframe {
   margin-bottom: 0.75rem;
 }
 
-.recommended__thumbnailContainer {
-
-}
-
-.recommended__duration {
-
-}
-
 .recommended__thumbnailContainer--hover {
   display: flex;
   flex-direction: column;
@@ -603,9 +581,6 @@ iframe {
 .recommended__thumbnailContainer--hover:hover > button {
   visibility: visible;
 }
-.recommended__thumbnailContainer {
-
-}
 
 .recommended__recommendedInfo {
   padding-left: .5rem;
@@ -622,16 +597,6 @@ iframe {
   color: rgb(144,144,144);
   padding-bottom: .25rem;
   font-size: .8rem;
-
-}
-
-
-
-.recommended__recVidViews {
-
-}
-
-.recommended__recVidDate {
 
 }
 
